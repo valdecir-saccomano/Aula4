@@ -14,6 +14,7 @@ END aula4;
 
 ARCHITECTURE bhv OF aula4 IS
 
+-- sianis
 signal in_mux : std_logic_vector(2 downto 0);
 signal ss_mux : std_logic_vector(1 downto 0);
 signal out_mux : std_logic;
